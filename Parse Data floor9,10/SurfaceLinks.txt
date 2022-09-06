@@ -1,0 +1,2011 @@
+			[
+			//BuildingPart1
+			'Building'
+			],
+
+			[
+			//BuildingPart2
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'RoofSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'WallSurface' ,  //8			
+			'WallSurface' ,  //9			
+			'WallSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'WallSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			'WallSurface' ,  //17			
+			],
+
+			[
+			//BuildingPart3
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'RoofSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'WallSurface' ,  //8			
+			'WallSurface' ,  //9			
+			'WallSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'WallSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			'WallSurface' ,  //17			
+			'WallSurface' ,  //18			
+			'WallSurface' ,  //19			
+			'WallSurface' ,  //20			
+			'WallSurface' ,  //21			
+			],
+
+			[
+			//BuildingPart4
+
+			'GroundSurface' ,  //1			
+			'GroundSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'RoofSurface' ,  //8			
+			'RoofSurface' ,  //9			
+			'RoofSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'GroundSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'RoofSurface' ,  //15			
+			'GroundSurface' ,  //16			
+			'WallSurface' ,  //17			
+			'WallSurface' ,  //18			
+			'WallSurface' ,  //19			
+			'WallSurface' ,  //20			
+			'WallSurface' ,  //21			
+			'WallSurface' ,  //22			
+			'WallSurface' ,  //23			
+			'WallSurface' ,  //24			
+			'WallSurface' ,  //25			
+			'WallSurface' ,  //26			
+			'WallSurface' ,  //27			
+			],
+
+			[
+			//BuildingPart5
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'RoofSurface' ,  //8			
+			'WallSurface' ,  //9			
+			'WallSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'WallSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			],
+
+			[
+			//BuildingPart6
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'RoofSurface' ,  //7			
+			'WallSurface' ,  //8			
+			'WallSurface' ,  //9			
+			'WallSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'WallSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			'WallSurface' ,  //17			
+			'WallSurface' ,  //18			
+			],
+
+			[
+			//BuildingPart7
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'RoofSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'WallSurface' ,  //8			
+			'WallSurface' ,  //9			
+			'WallSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'WallSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			],
+
+			[
+			//BuildingPart8
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'RoofSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'WallSurface' ,  //8			
+			'WallSurface' ,  //9			
+			'WallSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'WallSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			],
+
+			[
+			//BuildingPart9
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'RoofSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'WallSurface' ,  //8			
+			'WallSurface' ,  //9			
+			'WallSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'WallSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			],
+
+			[
+			//BuildingPart10
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'RoofSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'WallSurface' ,  //8			
+			'WallSurface' ,  //9			
+			'WallSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'WallSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			'WallSurface' ,  //17			
+			'WallSurface' ,  //18			
+			'WallSurface' ,  //19			
+			'WallSurface' ,  //20			
+			'WallSurface' ,  //21			
+			],
+
+			[
+			//BuildingPart11
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'RoofSurface' ,  //7			
+			'WallSurface' ,  //8			
+			'WallSurface' ,  //9			
+			'WallSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'WallSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			],
+
+			[
+			//BuildingPart12
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'RoofSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'WallSurface' ,  //8			
+			'WallSurface' ,  //9			
+			'WallSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'WallSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			],
+
+			[
+			//BuildingPart13
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'RoofSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'WallSurface' ,  //8			
+			'WallSurface' ,  //9			
+			'WallSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'WallSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			],
+
+			[
+			//BuildingPart14
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'RoofSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'WallSurface' ,  //8			
+			'WallSurface' ,  //9			
+			'WallSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'WallSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			],
+
+			[
+			//BuildingPart15
+
+			'GroundSurface' ,  //1			
+			'GroundSurface' ,  //2			
+			'GroundSurface' ,  //3			
+			'GroundSurface' ,  //4			
+			'GroundSurface' ,  //5			
+			'GroundSurface' ,  //6			
+			'GroundSurface' ,  //7			
+			'GroundSurface' ,  //8			
+			'GroundSurface' ,  //9			
+			'GroundSurface' ,  //10			
+			'GroundSurface' ,  //11			
+			'GroundSurface' ,  //12			
+			'GroundSurface' ,  //13			
+			'GroundSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			'RoofSurface' ,  //17			
+			'WallSurface' ,  //18			
+			'WallSurface' ,  //19			
+			'WallSurface' ,  //20			
+			'WallSurface' ,  //21			
+			'WallSurface' ,  //22			
+			'RoofSurface' ,  //23			
+			'WallSurface' ,  //24			
+			'WallSurface' ,  //25			
+			'WallSurface' ,  //26			
+			'WallSurface' ,  //27			
+			'WallSurface' ,  //28			
+			'WallSurface' ,  //29			
+			'WallSurface' ,  //30			
+			'WallSurface' ,  //31			
+			'WallSurface' ,  //32			
+			'WallSurface' ,  //33			
+			'WallSurface' ,  //34			
+			'RoofSurface' ,  //35			
+			'WallSurface' ,  //36			
+			'WallSurface' ,  //37			
+			'WallSurface' ,  //38			
+			'WallSurface' ,  //39			
+			'RoofSurface' ,  //40			
+			'WallSurface' ,  //41			
+			'WallSurface' ,  //42			
+			'WallSurface' ,  //43			
+			'RoofSurface' ,  //44			
+			'RoofSurface' ,  //45			
+			'WallSurface' ,  //46			
+			'WallSurface' ,  //47			
+			'WallSurface' ,  //48			
+			'WallSurface' ,  //49			
+			'WallSurface' ,  //50			
+			'WallSurface' ,  //51			
+			'WallSurface' ,  //52			
+			'WallSurface' ,  //53			
+			'WallSurface' ,  //54			
+			'WallSurface' ,  //55			
+			'RoofSurface' ,  //56			
+			'WallSurface' ,  //57			
+			'WallSurface' ,  //58			
+			'RoofSurface' ,  //59			
+			'WallSurface' ,  //60			
+			'WallSurface' ,  //61			
+			'RoofSurface' ,  //62			
+			'WallSurface' ,  //63			
+			'RoofSurface' ,  //64			
+			'WallSurface' ,  //65			
+			'WallSurface' ,  //66			
+			'WallSurface' ,  //67			
+			'WallSurface' ,  //68			
+			'WallSurface' ,  //69			
+			'RoofSurface' ,  //70			
+			'WallSurface' ,  //71			
+			'RoofSurface' ,  //72			
+			'RoofSurface' ,  //73			
+			'WallSurface' ,  //74			
+			'WallSurface' ,  //75			
+			'WallSurface' ,  //76			
+			'WallSurface' ,  //77			
+			'WallSurface' ,  //78			
+			'WallSurface' ,  //79			
+			'RoofSurface' ,  //80			
+			'WallSurface' ,  //81			
+			'WallSurface' ,  //82			
+			'WallSurface' ,  //83			
+			'WallSurface' ,  //84			
+			'WallSurface' ,  //85			
+			'WallSurface' ,  //86			
+			'WallSurface' ,  //87			
+			'WallSurface' ,  //88			
+			'WallSurface' ,  //89			
+			'WallSurface' ,  //90			
+			'WallSurface' ,  //91			
+			'WallSurface' ,  //92			
+			'WallSurface' ,  //93			
+			],
+
+			[
+			//BuildingPart16
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'RoofSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'WallSurface' ,  //8			
+			'WallSurface' ,  //9			
+			'WallSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'WallSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			'WallSurface' ,  //17			
+			'WallSurface' ,  //18			
+			'WallSurface' ,  //19			
+			],
+
+			[
+			//BuildingPart17
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'WallSurface' ,  //8			
+			'WallSurface' ,  //9			
+			'RoofSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'WallSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			'WallSurface' ,  //17			
+			'WallSurface' ,  //18			
+			'WallSurface' ,  //19			
+			],
+
+			[
+			//BuildingPart18
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'WallSurface' ,  //8			
+			'WallSurface' ,  //9			
+			'WallSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'RoofSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			'WallSurface' ,  //17			
+			'WallSurface' ,  //18			
+			'WallSurface' ,  //19			
+			'WallSurface' ,  //20			
+			'WallSurface' ,  //21			
+			'WallSurface' ,  //22			
+			'WallSurface' ,  //23			
+			'WallSurface' ,  //24			
+			'WallSurface' ,  //25			
+			],
+
+			[
+			//BuildingPart19
+
+			'GroundSurface' ,  //1			
+			'RoofSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'WallSurface' ,  //8			
+			'WallSurface' ,  //9			
+			'WallSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'WallSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			],
+
+			[
+			//BuildingPart20
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'RoofSurface' ,  //7			
+			'WallSurface' ,  //8			
+			'WallSurface' ,  //9			
+			'WallSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'WallSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			'WallSurface' ,  //17			
+			'WallSurface' ,  //18			
+			'WallSurface' ,  //19			
+			'WallSurface' ,  //20			
+			'WallSurface' ,  //21			
+			],
+
+			[
+			//BuildingPart21
+
+			'GroundSurface' ,  //1			
+			'GroundSurface' ,  //2			
+			'RoofSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'RoofSurface' ,  //8			
+			'RoofSurface' ,  //9			
+			'WallSurface' ,  //10			
+			'GroundSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'WallSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			'WallSurface' ,  //17			
+			'WallSurface' ,  //18			
+			],
+
+			[
+			//BuildingPart22
+
+			'WallSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'RoofSurface' ,  //7			
+			'WallSurface' ,  //8			
+			'WallSurface' ,  //9			
+			'GroundSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'WallSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			],
+
+			[
+			//BuildingPart23
+
+			'WallSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'WallSurface' ,  //8			
+			'WallSurface' ,  //9			
+			'WallSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'RoofSurface' ,  //12			
+			'WallSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'GroundSurface' ,  //15			
+			'WallSurface' ,  //16			
+			'WallSurface' ,  //17			
+			'WallSurface' ,  //18			
+			'WallSurface' ,  //19			
+			'WallSurface' ,  //20			
+			'WallSurface' ,  //21			
+			'WallSurface' ,  //22			
+			'WallSurface' ,  //23			
+			'WallSurface' ,  //24			
+			'WallSurface' ,  //25			
+			'WallSurface' ,  //26			
+			],
+
+			[
+			//BuildingPart24
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'WallSurface' ,  //8			
+			'WallSurface' ,  //9			
+			'WallSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'WallSurface' ,  //13			
+			'RoofSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			'WallSurface' ,  //17			
+			'WallSurface' ,  //18			
+			'WallSurface' ,  //19			
+			'WallSurface' ,  //20			
+			'WallSurface' ,  //21			
+			'WallSurface' ,  //22			
+			'WallSurface' ,  //23			
+			'WallSurface' ,  //24			
+			'WallSurface' ,  //25			
+			'WallSurface' ,  //26			
+			'WallSurface' ,  //27			
+			'WallSurface' ,  //28			
+			'WallSurface' ,  //29			
+			'WallSurface' ,  //30			
+			'WallSurface' ,  //31			
+			'WallSurface' ,  //32			
+			'WallSurface' ,  //33			
+			'WallSurface' ,  //34			
+			'WallSurface' ,  //35			
+			'WallSurface' ,  //36			
+			'WallSurface' ,  //37			
+			'WallSurface' ,  //38			
+			'WallSurface' ,  //39			
+			'WallSurface' ,  //40			
+			'WallSurface' ,  //41			
+			'WallSurface' ,  //42			
+			'WallSurface' ,  //43			
+			'WallSurface' ,  //44			
+			'WallSurface' ,  //45			
+			'WallSurface' ,  //46			
+			'WallSurface' ,  //47			
+			'WallSurface' ,  //48			
+			'WallSurface' ,  //49			
+			'WallSurface' ,  //50			
+			'WallSurface' ,  //51			
+			'WallSurface' ,  //52			
+			'WallSurface' ,  //53			
+			'WallSurface' ,  //54			
+			'WallSurface' ,  //55			
+			'WallSurface' ,  //56			
+			'WallSurface' ,  //57			
+			'WallSurface' ,  //58			
+			'WallSurface' ,  //59			
+			'WallSurface' ,  //60			
+			'WallSurface' ,  //61			
+			'WallSurface' ,  //62			
+			'WallSurface' ,  //63			
+			'WallSurface' ,  //64			
+			'WallSurface' ,  //65			
+			'WallSurface' ,  //66			
+			'WallSurface' ,  //67			
+			'WallSurface' ,  //68			
+			'WallSurface' ,  //69			
+			'WallSurface' ,  //70			
+			'WallSurface' ,  //71			
+			'WallSurface' ,  //72			
+			'WallSurface' ,  //73			
+			'WallSurface' ,  //74			
+			'WallSurface' ,  //75			
+			'WallSurface' ,  //76			
+			'WallSurface' ,  //77			
+			'WallSurface' ,  //78			
+			'WallSurface' ,  //79			
+			'WallSurface' ,  //80			
+			'WallSurface' ,  //81			
+			'WallSurface' ,  //82			
+			'WallSurface' ,  //83			
+			'WallSurface' ,  //84			
+			'WallSurface' ,  //85			
+			'WallSurface' ,  //86			
+			'WallSurface' ,  //87			
+			'WallSurface' ,  //88			
+			'WallSurface' ,  //89			
+			'WallSurface' ,  //90			
+			'WallSurface' ,  //91			
+			'WallSurface' ,  //92			
+			'WallSurface' ,  //93			
+			'WallSurface' ,  //94			
+			'WallSurface' ,  //95			
+			'WallSurface' ,  //96			
+			'WallSurface' ,  //97			
+			'WallSurface' ,  //98			
+			'WallSurface' ,  //99			
+			'WallSurface' ,  //100			
+			'WallSurface' ,  //101			
+			'WallSurface' ,  //102			
+			'WallSurface' ,  //103			
+			'WallSurface' ,  //104			
+			'WallSurface' ,  //105			
+			'WallSurface' ,  //106			
+			'WallSurface' ,  //107			
+			'WallSurface' ,  //108			
+			'WallSurface' ,  //109			
+			'WallSurface' ,  //110			
+			'WallSurface' ,  //111			
+			'WallSurface' ,  //112			
+			'WallSurface' ,  //113			
+			'WallSurface' ,  //114			
+			'WallSurface' ,  //115			
+			'WallSurface' ,  //116			
+			'WallSurface' ,  //117			
+			],
+
+			[
+			//BuildingPart25
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'RoofSurface' ,  //7			
+			],
+
+			[
+			//BuildingPart26
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'RoofSurface' ,  //5			
+			'WallSurface' ,  //6			
+			],
+
+			[
+			//BuildingPart27
+
+			'WallSurface' ,  //1			
+			'RoofSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'WallSurface' ,  //8			
+			'WallSurface' ,  //9			
+			'WallSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'GroundSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			'WallSurface' ,  //17			
+			'WallSurface' ,  //18			
+			'WallSurface' ,  //19			
+			'WallSurface' ,  //20			
+			'WallSurface' ,  //21			
+			],
+
+			[
+			//BuildingPart28
+
+			'WallSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'RoofSurface' ,  //5			
+			'GroundSurface' ,  //6			
+			],
+
+			[
+			//BuildingPart29
+
+			'WallSurface' ,  //1			
+			'GroundSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'RoofSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			],
+
+			[
+			//BuildingPart30
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'RoofSurface' ,  //6			
+			],
+
+			[
+			//BuildingPart31
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'RoofSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			],
+
+			[
+			//BuildingPart32
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'RoofSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			],
+
+			[
+			//BuildingPart33
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'RoofSurface' ,  //6			
+			],
+
+			[
+			//BuildingPart34
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'RoofSurface' ,  //6			
+			],
+
+			[
+			//BuildingPart35
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'RoofSurface' ,  //5			
+			'WallSurface' ,  //6			
+			],
+
+			[
+			//BuildingPart36
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'RoofSurface' ,  //7			
+			'WallSurface' ,  //8			
+			],
+
+			[
+			//BuildingPart37
+
+			'GroundSurface' ,  //1			
+			'RoofSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			],
+
+			[
+			//BuildingPart38
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'RoofSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'WallSurface' ,  //8			
+			],
+
+			[
+			//BuildingPart39
+
+			'GroundSurface' ,  //1			
+			'RoofSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			],
+
+			[
+			//BuildingPart40
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'RoofSurface' ,  //6			
+			],
+
+			[
+			//BuildingPart41
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'RoofSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			],
+
+			[
+			//BuildingPart42
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'RoofSurface' ,  //6			
+			],
+
+			[
+			//BuildingPart43
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'RoofSurface' ,  //5			
+			'WallSurface' ,  //6			
+			],
+
+			[
+			//BuildingPart44
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'RoofSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			],
+
+			[
+			//BuildingPart45
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'RoofSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			],
+
+			[
+			//BuildingPart46
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'RoofSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			],
+
+			[
+			//BuildingPart47
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'RoofSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			],
+
+			[
+			//BuildingPart48
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'RoofSurface' ,  //5			
+			'WallSurface' ,  //6			
+			],
+
+			[
+			//BuildingPart49
+			'Building'
+			],
+
+			[
+			//BuildingPart50
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'RoofSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'WallSurface' ,  //8			
+			'WallSurface' ,  //9			
+			'WallSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'WallSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			'WallSurface' ,  //17			
+			],
+
+			[
+			//BuildingPart51
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'RoofSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'WallSurface' ,  //8			
+			'WallSurface' ,  //9			
+			'WallSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'WallSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			'WallSurface' ,  //17			
+			'WallSurface' ,  //18			
+			'WallSurface' ,  //19			
+			'WallSurface' ,  //20			
+			'WallSurface' ,  //21			
+			],
+
+			[
+			//BuildingPart52
+
+			'GroundSurface' ,  //1			
+			'GroundSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'RoofSurface' ,  //8			
+			'RoofSurface' ,  //9			
+			'RoofSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'GroundSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'RoofSurface' ,  //15			
+			'GroundSurface' ,  //16			
+			'WallSurface' ,  //17			
+			'WallSurface' ,  //18			
+			'WallSurface' ,  //19			
+			'WallSurface' ,  //20			
+			'WallSurface' ,  //21			
+			'WallSurface' ,  //22			
+			'WallSurface' ,  //23			
+			'WallSurface' ,  //24			
+			'WallSurface' ,  //25			
+			'WallSurface' ,  //26			
+			'WallSurface' ,  //27			
+			],
+
+			[
+			//BuildingPart53
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'WallSurface' ,  //8			
+			'RoofSurface' ,  //9			
+			'WallSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'WallSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			],
+
+			[
+			//BuildingPart54
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'RoofSurface' ,  //7			
+			'WallSurface' ,  //8			
+			'WallSurface' ,  //9			
+			'WallSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'WallSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			'WallSurface' ,  //17			
+			'WallSurface' ,  //18			
+			],
+
+			[
+			//BuildingPart55
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'RoofSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'WallSurface' ,  //8			
+			'WallSurface' ,  //9			
+			'WallSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'WallSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			],
+
+			[
+			//BuildingPart56
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'RoofSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'WallSurface' ,  //8			
+			'WallSurface' ,  //9			
+			'WallSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'WallSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			],
+
+			[
+			//BuildingPart57
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'RoofSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'WallSurface' ,  //8			
+			'WallSurface' ,  //9			
+			'WallSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'WallSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			],
+
+			[
+			//BuildingPart58
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'RoofSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'WallSurface' ,  //8			
+			'WallSurface' ,  //9			
+			'WallSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'WallSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			'WallSurface' ,  //17			
+			'WallSurface' ,  //18			
+			'WallSurface' ,  //19			
+			'WallSurface' ,  //20			
+			'WallSurface' ,  //21			
+			],
+
+			[
+			//BuildingPart59
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'RoofSurface' ,  //8			
+			'WallSurface' ,  //9			
+			'WallSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'WallSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			],
+
+			[
+			//BuildingPart60
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'RoofSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'WallSurface' ,  //8			
+			'WallSurface' ,  //9			
+			'WallSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'WallSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			],
+
+			[
+			//BuildingPart61
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'RoofSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'WallSurface' ,  //8			
+			'WallSurface' ,  //9			
+			'WallSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'WallSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			],
+
+			[
+			//BuildingPart62
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'RoofSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'WallSurface' ,  //8			
+			'WallSurface' ,  //9			
+			'WallSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'WallSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			],
+
+			[
+			//BuildingPart63
+
+			'GroundSurface' ,  //1			
+			'GroundSurface' ,  //2			
+			'GroundSurface' ,  //3			
+			'GroundSurface' ,  //4			
+			'GroundSurface' ,  //5			
+			'GroundSurface' ,  //6			
+			'GroundSurface' ,  //7			
+			'GroundSurface' ,  //8			
+			'GroundSurface' ,  //9			
+			'GroundSurface' ,  //10			
+			'GroundSurface' ,  //11			
+			'GroundSurface' ,  //12			
+			'GroundSurface' ,  //13			
+			'GroundSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			'RoofSurface' ,  //17			
+			'WallSurface' ,  //18			
+			'WallSurface' ,  //19			
+			'WallSurface' ,  //20			
+			'WallSurface' ,  //21			
+			'WallSurface' ,  //22			
+			'RoofSurface' ,  //23			
+			'WallSurface' ,  //24			
+			'WallSurface' ,  //25			
+			'WallSurface' ,  //26			
+			'WallSurface' ,  //27			
+			'WallSurface' ,  //28			
+			'WallSurface' ,  //29			
+			'WallSurface' ,  //30			
+			'WallSurface' ,  //31			
+			'WallSurface' ,  //32			
+			'WallSurface' ,  //33			
+			'WallSurface' ,  //34			
+			'RoofSurface' ,  //35			
+			'WallSurface' ,  //36			
+			'WallSurface' ,  //37			
+			'WallSurface' ,  //38			
+			'WallSurface' ,  //39			
+			'RoofSurface' ,  //40			
+			'WallSurface' ,  //41			
+			'WallSurface' ,  //42			
+			'WallSurface' ,  //43			
+			'RoofSurface' ,  //44			
+			'RoofSurface' ,  //45			
+			'WallSurface' ,  //46			
+			'WallSurface' ,  //47			
+			'WallSurface' ,  //48			
+			'WallSurface' ,  //49			
+			'WallSurface' ,  //50			
+			'WallSurface' ,  //51			
+			'WallSurface' ,  //52			
+			'WallSurface' ,  //53			
+			'WallSurface' ,  //54			
+			'WallSurface' ,  //55			
+			'RoofSurface' ,  //56			
+			'WallSurface' ,  //57			
+			'WallSurface' ,  //58			
+			'RoofSurface' ,  //59			
+			'WallSurface' ,  //60			
+			'WallSurface' ,  //61			
+			'RoofSurface' ,  //62			
+			'WallSurface' ,  //63			
+			'RoofSurface' ,  //64			
+			'WallSurface' ,  //65			
+			'WallSurface' ,  //66			
+			'WallSurface' ,  //67			
+			'WallSurface' ,  //68			
+			'WallSurface' ,  //69			
+			'RoofSurface' ,  //70			
+			'WallSurface' ,  //71			
+			'RoofSurface' ,  //72			
+			'RoofSurface' ,  //73			
+			'WallSurface' ,  //74			
+			'WallSurface' ,  //75			
+			'WallSurface' ,  //76			
+			'WallSurface' ,  //77			
+			'WallSurface' ,  //78			
+			'WallSurface' ,  //79			
+			'RoofSurface' ,  //80			
+			'WallSurface' ,  //81			
+			'WallSurface' ,  //82			
+			'WallSurface' ,  //83			
+			'WallSurface' ,  //84			
+			'WallSurface' ,  //85			
+			'WallSurface' ,  //86			
+			'WallSurface' ,  //87			
+			'WallSurface' ,  //88			
+			'WallSurface' ,  //89			
+			'WallSurface' ,  //90			
+			'WallSurface' ,  //91			
+			'WallSurface' ,  //92			
+			'WallSurface' ,  //93			
+			],
+
+			[
+			//BuildingPart64
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'RoofSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'WallSurface' ,  //8			
+			'WallSurface' ,  //9			
+			'WallSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'WallSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			'WallSurface' ,  //17			
+			'WallSurface' ,  //18			
+			'WallSurface' ,  //19			
+			],
+
+			[
+			//BuildingPart65
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'WallSurface' ,  //8			
+			'WallSurface' ,  //9			
+			'WallSurface' ,  //10			
+			'RoofSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'WallSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			'WallSurface' ,  //17			
+			'WallSurface' ,  //18			
+			'WallSurface' ,  //19			
+			],
+
+			[
+			//BuildingPart66
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'WallSurface' ,  //8			
+			'WallSurface' ,  //9			
+			'WallSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'RoofSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			'WallSurface' ,  //17			
+			'WallSurface' ,  //18			
+			'WallSurface' ,  //19			
+			'WallSurface' ,  //20			
+			'WallSurface' ,  //21			
+			'WallSurface' ,  //22			
+			'WallSurface' ,  //23			
+			'WallSurface' ,  //24			
+			'WallSurface' ,  //25			
+			],
+
+			[
+			//BuildingPart67
+
+			'GroundSurface' ,  //1			
+			'RoofSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'WallSurface' ,  //8			
+			'WallSurface' ,  //9			
+			'WallSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'WallSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			],
+
+			[
+			//BuildingPart68
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'RoofSurface' ,  //7			
+			'WallSurface' ,  //8			
+			'WallSurface' ,  //9			
+			'WallSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'WallSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			'WallSurface' ,  //17			
+			'WallSurface' ,  //18			
+			'WallSurface' ,  //19			
+			'WallSurface' ,  //20			
+			'WallSurface' ,  //21			
+			],
+
+			[
+			//BuildingPart69
+
+			'GroundSurface' ,  //1			
+			'GroundSurface' ,  //2			
+			'RoofSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'RoofSurface' ,  //8			
+			'RoofSurface' ,  //9			
+			'GroundSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'WallSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			'WallSurface' ,  //17			
+			'WallSurface' ,  //18			
+			],
+
+			[
+			//BuildingPart70
+
+			'WallSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'RoofSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'WallSurface' ,  //8			
+			'WallSurface' ,  //9			
+			'WallSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'GroundSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			'WallSurface' ,  //17			
+			'WallSurface' ,  //18			
+			'WallSurface' ,  //19			
+			'WallSurface' ,  //20			
+			'WallSurface' ,  //21			
+			],
+
+			[
+			//BuildingPart71
+
+			'WallSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'RoofSurface' ,  //7			
+			'WallSurface' ,  //8			
+			'WallSurface' ,  //9			
+			'GroundSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'WallSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			],
+
+			[
+			//BuildingPart72
+
+			'WallSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'WallSurface' ,  //8			
+			'WallSurface' ,  //9			
+			'WallSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'RoofSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'GroundSurface' ,  //16			
+			'WallSurface' ,  //17			
+			'WallSurface' ,  //18			
+			'WallSurface' ,  //19			
+			'WallSurface' ,  //20			
+			'WallSurface' ,  //21			
+			'WallSurface' ,  //22			
+			'WallSurface' ,  //23			
+			'WallSurface' ,  //24			
+			'WallSurface' ,  //25			
+			'WallSurface' ,  //26			
+			],
+
+			[
+			//BuildingPart73
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'WallSurface' ,  //8			
+			'RoofSurface' ,  //9			
+			'WallSurface' ,  //10			
+			'WallSurface' ,  //11			
+			'WallSurface' ,  //12			
+			'WallSurface' ,  //13			
+			'WallSurface' ,  //14			
+			'WallSurface' ,  //15			
+			'WallSurface' ,  //16			
+			'WallSurface' ,  //17			
+			'WallSurface' ,  //18			
+			'WallSurface' ,  //19			
+			'WallSurface' ,  //20			
+			'WallSurface' ,  //21			
+			'WallSurface' ,  //22			
+			'WallSurface' ,  //23			
+			'WallSurface' ,  //24			
+			'WallSurface' ,  //25			
+			'WallSurface' ,  //26			
+			'WallSurface' ,  //27			
+			'WallSurface' ,  //28			
+			'WallSurface' ,  //29			
+			'WallSurface' ,  //30			
+			'WallSurface' ,  //31			
+			'WallSurface' ,  //32			
+			'WallSurface' ,  //33			
+			'WallSurface' ,  //34			
+			'WallSurface' ,  //35			
+			'WallSurface' ,  //36			
+			'WallSurface' ,  //37			
+			'WallSurface' ,  //38			
+			'WallSurface' ,  //39			
+			'WallSurface' ,  //40			
+			'WallSurface' ,  //41			
+			'WallSurface' ,  //42			
+			'WallSurface' ,  //43			
+			'WallSurface' ,  //44			
+			'WallSurface' ,  //45			
+			'WallSurface' ,  //46			
+			'WallSurface' ,  //47			
+			'WallSurface' ,  //48			
+			'WallSurface' ,  //49			
+			'WallSurface' ,  //50			
+			'WallSurface' ,  //51			
+			'WallSurface' ,  //52			
+			'WallSurface' ,  //53			
+			'WallSurface' ,  //54			
+			'WallSurface' ,  //55			
+			'WallSurface' ,  //56			
+			'WallSurface' ,  //57			
+			'WallSurface' ,  //58			
+			'WallSurface' ,  //59			
+			'WallSurface' ,  //60			
+			'WallSurface' ,  //61			
+			'WallSurface' ,  //62			
+			'WallSurface' ,  //63			
+			'WallSurface' ,  //64			
+			'WallSurface' ,  //65			
+			'WallSurface' ,  //66			
+			'WallSurface' ,  //67			
+			'WallSurface' ,  //68			
+			'WallSurface' ,  //69			
+			'WallSurface' ,  //70			
+			'WallSurface' ,  //71			
+			'WallSurface' ,  //72			
+			'WallSurface' ,  //73			
+			'WallSurface' ,  //74			
+			'WallSurface' ,  //75			
+			'WallSurface' ,  //76			
+			'WallSurface' ,  //77			
+			'WallSurface' ,  //78			
+			'WallSurface' ,  //79			
+			'WallSurface' ,  //80			
+			'WallSurface' ,  //81			
+			'WallSurface' ,  //82			
+			'WallSurface' ,  //83			
+			'WallSurface' ,  //84			
+			'WallSurface' ,  //85			
+			'WallSurface' ,  //86			
+			'WallSurface' ,  //87			
+			'WallSurface' ,  //88			
+			'WallSurface' ,  //89			
+			'WallSurface' ,  //90			
+			'WallSurface' ,  //91			
+			'WallSurface' ,  //92			
+			'WallSurface' ,  //93			
+			'WallSurface' ,  //94			
+			'WallSurface' ,  //95			
+			'WallSurface' ,  //96			
+			'WallSurface' ,  //97			
+			'WallSurface' ,  //98			
+			'WallSurface' ,  //99			
+			'WallSurface' ,  //100			
+			'WallSurface' ,  //101			
+			'WallSurface' ,  //102			
+			'WallSurface' ,  //103			
+			'WallSurface' ,  //104			
+			'WallSurface' ,  //105			
+			'WallSurface' ,  //106			
+			'WallSurface' ,  //107			
+			'WallSurface' ,  //108			
+			'WallSurface' ,  //109			
+			'WallSurface' ,  //110			
+			'WallSurface' ,  //111			
+			'WallSurface' ,  //112			
+			'WallSurface' ,  //113			
+			'WallSurface' ,  //114			
+			'WallSurface' ,  //115			
+			'WallSurface' ,  //116			
+			'WallSurface' ,  //117			
+			],
+
+			[
+			//BuildingPart74
+
+			'WallSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'GroundSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'RoofSurface' ,  //7			
+			],
+
+			[
+			//BuildingPart75
+
+			'WallSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'RoofSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'GroundSurface' ,  //6			
+			],
+
+			[
+			//BuildingPart76
+
+			'WallSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'RoofSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'GroundSurface' ,  //6			
+			],
+
+			[
+			//BuildingPart77
+
+			'WallSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'GroundSurface' ,  //3			
+			'RoofSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			],
+
+			[
+			//BuildingPart78
+
+			'WallSurface' ,  //1			
+			'GroundSurface' ,  //2			
+			'RoofSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			],
+
+			[
+			//BuildingPart79
+
+			'GroundSurface' ,  //1			
+			'RoofSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			],
+
+			[
+			//BuildingPart80
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'RoofSurface' ,  //6			
+			],
+
+			[
+			//BuildingPart81
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'RoofSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			],
+
+			[
+			//BuildingPart82
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'RoofSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			],
+
+			[
+			//BuildingPart83
+
+			'GroundSurface' ,  //1			
+			'RoofSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			],
+
+			[
+			//BuildingPart84
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'RoofSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'WallSurface' ,  //8			
+			],
+
+			[
+			//BuildingPart85
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'RoofSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			],
+
+			[
+			//BuildingPart86
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			'WallSurface' ,  //7			
+			'RoofSurface' ,  //8			
+			],
+
+			[
+			//BuildingPart87
+
+			'GroundSurface' ,  //1			
+			'RoofSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			],
+
+			[
+			//BuildingPart88
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'RoofSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			],
+
+			[
+			//BuildingPart89
+
+			'GroundSurface' ,  //1			
+			'RoofSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			],
+
+			[
+			//BuildingPart90
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'RoofSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			],
+
+			[
+			//BuildingPart91
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'RoofSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			],
+
+			[
+			//BuildingPart92
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'RoofSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			],
+
+			[
+			//BuildingPart93
+
+			'GroundSurface' ,  //1			
+			'RoofSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			],
+
+			[
+			//BuildingPart94
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'RoofSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			],
+
+			[
+			//BuildingPart95
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'WallSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'RoofSurface' ,  //6			
+			],
+
+			[
+			//BuildingPart96
+
+			'GroundSurface' ,  //1			
+			'WallSurface' ,  //2			
+			'WallSurface' ,  //3			
+			'RoofSurface' ,  //4			
+			'WallSurface' ,  //5			
+			'WallSurface' ,  //6			
+			]

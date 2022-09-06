@@ -1,0 +1,231 @@
+<html>
+        <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        <script src="js/jquery-2.1.4.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="">
+
+        <link rel="stylesheet" href="css/view.css">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r122/three.min.js"></script>
+        <script src="https://unpkg.com/three@0.122.0/examples/js/loaders/GLTFLoader.js"></script>
+        <script src="https://unpkg.com/three@0.122.0/examples/js/loaders/OBJLoader.js"></script>
+        <script src="https://unpkg.com/three@0.122.0/examples/js/loaders/MTLLoader.js"></script>
+        <script src="js/OrbitControls.js"></script>
+        <script src="js/Stats.js"></script>
+        <script src="js/THREEx.WindowResize.js"></script>
+        </head>
+        <body>
+        <div class = "name"> <h2>VISUALIZATION OF 3D TOPOLOGICAL SPATIAL DATA USING THREE.JS</h2> </div>           
+        <div class = "line">
+
+                <h2> </h2>
+                <!-- add button here-->
+                <table>
+                        <tr>
+                                <td></td>
+                                <td >Building</td>
+                                <td></td>
+                        </tr>
+
+                        <tr>
+                                <td></td>
+                                <td><label id="switch1"> <input type="checkbox" id = 'Building' > <span class="slider round"> </span> </label> </td>
+                                <td></td>
+                        </tr>
+                        <tr>
+                                <td>Floor9</td>
+                                <td style="padding-left: 50px;"></td>
+                                <td>Floor10</td>
+                                
+                        </tr>
+
+                        <tr>
+                                <td><label id="switch1"> <input type="checkbox" id = 'face_f9' > <span class="slider round"> </span> </label> </td>
+                                <td></td>
+                                <td><label id="switch2"> <input type="checkbox" id = 'face_f10'> <span class="slider round"> </span> </label> </td>
+                        </tr>
+                        
+                </table>
+                <p></p>
+                <table id= "surfaces">
+
+                        <tr>
+                                <td style="padding-right: 20px;"></td>
+                                <td> Roof</td>
+                                <td style="padding-left: 10px;"></td>
+                                <td> Wall</td>
+                                <td style="padding-left: 10px;"></td>
+                                <td> Ground</td>
+                        </tr>
+                        <tr >
+                                <td style="padding-right: 20px; font-size: large;"> F9:</td>
+                                <td> <div class="roof"> <input type="checkbox" id="rooff9">  </div></td>
+                                <td style="padding-left: 10px;"></td>
+                                <td><div class="wall"> <input type="checkbox" id="wallf9">  </div></td>
+                                <td style="padding-left: 10px;"></td>
+                                <td><div class="ground"> <input type="checkbox" id="groundf9">  </div></td>
+                        </tr>
+
+                        <tr >
+                                <td style="padding-right: 20px; font-size: large;"> F10:</td>
+                                <td><div class="roof"> <input type="checkbox" id="rooff10">  </div></td>
+                                <td style="padding-left: 10px;"></td>
+                                <td><div class="wall"> <input type="checkbox" id="wallf10">  </div></td>
+                                <td style="padding-left: 10px;"></td>
+                                <td><div class="ground"> <input type="checkbox" id="groundf10">  </div></td>
+                        </tr>
+                </table>
+                <p></p>
+                <div class="point"> <button id='point' type='button'>point</button></div>
+                <p style="padding-top: 5px;"></p>
+                <div class="edge"> <button id='edge' type='button'>line</button></div>
+                <p style="padding-top: 5px;"></p>
+                <div class="faces"> <button id='faces' type='button'>faces</button></div>
+                <p></p>
+
+                <table>
+                        <tr>
+                                <td style="padding-left: 32px;"></td>
+                                <td >Geometry Clicker</td>
+                        </tr>
+
+                        <tr>
+                                <td></td>
+                                <td><div class="info_click"> <input type="checkbox" id="info_click">  </div></td>   
+                        </tr>
+                </table>
+
+                <p style="padding-top: 10px;"></p>                        
+        </div>
+
+                <div id = "analysis">
+                        <h2> Analysis </h2>
+                        <div class="alpha3"> <button id='alpha3' type='button'>Topology Connection</button></div>
+                        <table id="volume">
+                                <tr>
+                                        <td> Connected Points<div> <input type="checkbox" id="conn_point">  </div></td>
+                                </tr>
+
+                                <tr>
+                                        <td style="padding-top: 13px ;"></td>
+                                </tr>
+
+                                <tr>
+                                        <td> Connected Lines<div> <input type="checkbox" id="conn_line">  </div></td>
+                                </tr>
+
+                                <tr>
+                                        <td style="padding-top: 13px ;"></td>
+                                </tr>
+
+                                <tr>
+                                        <td> Connected surfaces</td>
+                                </tr>
+
+                                <table id="volume1">
+                                        <tr>
+                                                <td>Roof</td>
+                                                <td style="padding-left: 10%;">Wall</td>
+                                                <td style="padding-left: 20%">Ground</td>
+                                        </tr>
+        
+                                        <tr>
+                                                <td><input type="checkbox" id="conn_surface_roof"></td>
+                                                <td style="padding-left: 10%;"><input type="checkbox" id="conn_surface_wall"></td>
+                                                <td style="padding-left: 20%"><input type="checkbox" id="conn_surface_ground">  </td>
+        
+                                        </tr>
+                                </table>
+                                
+                                
+                        </table>
+                        <p></p> 
+                        <button id='BetweenRoom' type='button'>Path Between Room</button><br>
+
+                        <table>
+                                <tr>
+                                        <p></p>
+                                        <td><input type="number" id="room1" name="room1" placeholder="Enter Room 1"></td>
+                                        <td><input type="number" id="room2" name="room2" placeholder="Enter Room 2"></td>
+                                </tr>
+
+                                <tr>
+                                        <td> <p></p></td>
+                                </tr>
+                                <tr>
+                                        <td><button id='submit' type='button'>Enter</button></td>
+                                </tr>
+                        </table>
+                       
+                        
+                        <table>
+                                <tr>
+                                        <p></p>
+                                </tr>
+
+                                <tr>
+                                        <td><div class="Reset"> <button id='Reset' type='button'>Reset Line</button></div></td>
+                                        <td style="padding-left: 30px;"></td>
+                                        <td><button onclick="show_hidef9()" id="BPinfo">Info</button> </td>
+                                </tr>
+                        </table>
+                        <p></p>
+                        <div class="Emergency"> <button id='Emergency' type='button'>Emergency Path</button></div><br>
+                </div>
+
+                <div id="legend">
+                        <h3 style="text-align: center;">Legend</h3>
+                        <table >
+                                <tr>
+                                        <td>Point</td>
+                                        <td class="circle" style="background-color: #5e0561 ;"></td>       
+                                </tr>
+                                <tr>
+                                        <td>Line</td>
+                                        <td class="line_1" style="background-color: blue ;"></td>       
+                                </tr>
+
+                                <tr>
+                                        <td>Roof</td>
+                                        <td class="box" style="background-color: red ;"></td>       
+                                </tr>
+
+                                <tr>
+                                        <td>Wall</td>
+                                        <td class="box" style="background-color: gray ;"></td>
+                                </tr>
+
+                                <tr>
+                                        <td>Ground</td>
+                                        <td class="box" style="background-color: lightblue ;"></td>
+                                </tr>
+                                <tr>
+                                        <td>Connected point</td>
+                                        <td class="circle" style="background-color: black ;"></td>
+                                </tr>
+                                <tr>
+                                        <td>Connected line</td>
+                                        <td class="line_2" style="background-color: red ;"></td>
+                                </tr>
+
+                                <tr>
+                                        <td>Connected Roof</td>
+                                        <td class="box" style="background-color: yellow ;"></td>
+                                </tr>
+
+                                <tr>
+                                        <td>Connected Wall</td>
+                                        <td class="box" style="background-color: green ;"></td>
+                                </tr>
+        
+                                <tr>
+                                        <td>Connected Ground</td>
+                                        <td class="box" style="background-color: #CF9FFF ;"></td>
+                                </tr>
+                        </table>
+                </div>
+
+        <script src = "data.js"></script>
+
+              
+        </body>
+</html>
